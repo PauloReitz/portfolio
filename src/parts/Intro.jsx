@@ -8,9 +8,9 @@ function Intro() {
             <p className="text-sm max-w-xl mb-6 font-bold">
             As a mechanical engineer with a special interest in thermal sciences, I had the opportunity to work with multidisciplinary teams across the world!
             <br />
-            I have previous experience in verification and validation (V&V), experimental research, software development, and product design, mainly focused on cooling systems.
+            I have previous experience in verification and validation (V&V), experimental research, software development, and product design.
             <br />
-            My most discernible qualities are dedication, critical thinking, and fast learning. Loving to learn new things whenever possible, I studied different programming languages, simulation, and video/image editing tools.
+            Loving to learn new things whenever possible, I studied different programming languages, simulation, and video/image editing tools.
             </p>
         </div>   
     )

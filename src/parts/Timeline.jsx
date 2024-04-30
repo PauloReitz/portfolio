@@ -13,7 +13,8 @@ function Timeline() {
                         year={item.year}
                         title={item.title}
                         duration={item.duration}
-                        details={item.details}
+                        details_first={item.details_first}
+                        details_second={item.details_second}
                     />
                 ))}
             </div>
